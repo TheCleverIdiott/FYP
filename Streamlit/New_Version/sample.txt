@@ -1,0 +1,39 @@
+Processor Affinity means a processes has an affinity for the processor on which it is currently running. When a process runs on a specific processor there are certain effects on the cache memory. The data most recently accessed by the process populate the cache for the processor and as a result successive memory access by the process are often satisfied in the cache memory. Now if the process migrates to another processor, the contents of the cache memory must be invalidated for the first processor and the cache for the second processor must be repopulated. Because of the high cost of invalidating and repopulating caches, most of the SMP(symmetric multiprocessing) systems try to avoid migration of processes from one processor to another and try to keep a process running on the same processor. This is known as PROCESSOR AFFINITY. There are two types of processor affinity Soft Affinity and Hard Afinity. Soft Affinity is when an operating system has a policy of attempting to keep a process running on the same processor but not guaranteeing it will do so, this situation is called soft affinity. Hard Affinity allows a process to specify a subset of processors on which it may run. Some systems such as Linux implements soft affinity but also provide some system calls like sched_setaffinity() that supports hard affinity.
+
+
+
+
+
+Up-to-date constitutional texts are taken from the official website of the Legislative Department of the Ministry of Law
+and Justice. Here, the current iteration of the Indian Constitution along with all its amendments can be found, ensuring
+comprehensive coverage of the foundational legal document of India. Legislative texts, which include crucial legal
+documents like the Indian Penal Code (IPC), Code of Criminal Procedure (CrPC), Code of Civil Procedure (CPC), and other such
+documents, were sourced from several government websites and legal databases. The primary sources were the official websites
+of the government, the India Code and India.gov.in, which offer extensive collections of legislative documents and related legal
+resources. Regulatory texts, which include statutes such as the Indian Evidence Act, education regulations,
+and banking regulations, were obtained from the appropriate regulatory agencies’ websites and government portals. These
+sources offered authoritative and up-to-date regulatory information, which was required for appropriate legal data structuring.
+To locate and access landmark constitutional rulings, we used Wikipedia’s list of historically noteworthy court rulings. This
+list served as a starting point for determining cases with historical significance. The real-case files were then downloaded from
+the official websites of the Supreme Court of India and the respective High Courts of the states concerned [35]. Constitutional
+amendments were also obtained from the Legislative Department of the Ministry of Law and Justice website, ensuring that all
+modifications and updates to the Constitution were included in the dataset. Furthermore, other law documents were obtained
+from the websites of the Supreme Court, different state High Courts, and prominent district courts, resulting in a comprehensive
+and diverse collection of legal writings. For a comprehensive understanding of Indian law, there are several key legal documents and resources (data and data sources) that must be accessed. These can broadly be divided into 5 categories: The Constitution is arranged hierarchically, with each article and corresponding clauses delineated and divided clearly into articles, clauses, subclauses, etc. Every clause has a corresponding reference column, divided into in-document and out-document categories. In-document references include
+the exact clause numbering of the referenced and the referee. Out-of-document references are contained in separate files
+and include relevant context for the clause. A referee column exists to list every other document referencing the clause (this
+standard for references is maintained in all categories). Further, each clause (and subsequent sub-clauses) is tagged with relevant
+metadata, including subject, legal status, category of jurisdiction, amendment, applicability, etc (this too is maintained for all
+subsequent categories). Amendments are listed in chronological order, each tagged with the date of proposal and enactment. Each
+document is further categorized into specifics such as IPC, CrPC, etc. for Criminal Law, and so on. Further, each subcategory
+of each document has a running reference to the “Regional Jurisdiction” document. Administrative texts detailing circulars and
+notifications are simply formatted, tagged, stated, and referenced per the above norms but have an additional date and region
+column. They are also standardized into a singular text format following a simple header of a circular /notification and relevant
+text format. The “Regional Jurisdiction” document details the local implementation of laws, separated hierarchically into state,
+district, and sub-district (if relevant) levels. Landmark Constitutional Judgements are chronologically ordered. They contain
+the judgement, date of passing, and interpretations divided into a two-column system, one that lists the general interpretation
+and a second that contains a list of later interpretations used in court. Finally tag these judgments with relevant Constitutional
+numbering (clause, subclause, article) only. Finally, we create a dictionary and the reference documents. A point-by-point
+chronological arrangement of important legal issues, a glossary of terms, conception, history, past amendments and why those
+amendments occurred, first schemes of government policies, abbreviations, administrative papers, surveys, legislative arguments
+and proceedings, and other relevant contextual documents.
