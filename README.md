@@ -25,7 +25,7 @@
 ## **🔗 Quick Links**  
 - **📽️ Presentation**: [View Presentation](https://summari-wa22e81.gamma.site/)  
 - **🌐 Deployed Project**: [Explore the Deployed System](https://summari.streamlit.app/)  
-- **📄 Project Report**: [Read the Full Report](https://report.com)
+- **📄 Project Report**: [Read the Full Report](https://github.com/TheCleverIdiott/FYP/blob/main/project_report.pdf)
   
 ---
 
