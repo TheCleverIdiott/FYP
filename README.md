@@ -23,6 +23,7 @@
 ---
 
 ## **🔗 Quick Links**  
+- **Dataset**: [Access the dataset from here](https://mega.nz/file/pj8nTZjD#JO5EEfbZ6rinPLGQHNSvfOnrF37fUJu205A-qwqJskQ)
 - **📽️ Presentation**: [View Presentation](https://summari-wa22e81.gamma.site/)  
 - **🌐 Deployed Project**: [Explore the Deployed System](https://summari.streamlit.app/)  
 - **📄 Project Report**: [Read the Full Report](https://github.com/TheCleverIdiott/FYP/blob/main/project_report.pdf)
