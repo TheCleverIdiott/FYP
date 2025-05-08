@@ -22,7 +22,7 @@
 ## **🔗 Quick Links**  
 - **Thesis**: [Thesis Report](https://github.com/TheCleverIdiott/FYP/blob/main/Thesis.pdf)
 - **Dataset**: [Access the dataset from here](https://mega.nz/file/pj8nTZjD#JO5EEfbZ6rinPLGQHNSvfOnrF37fUJu205A-qwqJskQ)
-- **Presentation**: [View Presentation](https://summari-wa22e81.gamma.site/)  
+- **Presentation**: [View Presentation](https://www.canva.com/design/DAGmru0rtBs/P8Bh_GicQmmqb5YWdiL4Vw/view?utm_content=DAGmru0rtBs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h90183d9892)  
 - **Deployed Project**: [Explore the Deployed System](https://summari.streamlit.app/)  
 - **Poster**: [See the Final Year Poster](https://docs.google.com/presentation/d/1uzKtcLN4YwwHzdxXHMhlkBzhEHWPywyIHu4xZ6QtKpE/edit?usp=sharing)
 
