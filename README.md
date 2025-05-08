@@ -1,5 +1,4 @@
-# **Innovative Project Submission (PROJCS701)**
-### 4th Year, 7th Semester
+# **Final Year Project Submission**
 
 ## **Project Title**  
 **Ensemble Text Summarization Algorithm**
@@ -17,7 +16,7 @@
 
 ---
 
-## **Mentor**  
+## **Project Mentor**  
 **Dr. Anupam Mondal**  
 
 ---
