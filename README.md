@@ -61,4 +61,4 @@ The exponential rise of digital content calls for robust summarization solutions
 ---
 
 ## **Acknowledgement**  
-We extend our heartfelt gratitude to **Dr. Anupam Mondal**, whose expert guidance and encouragement were pivotal to this project’s success. Additionally, we thank the **Institute of Engineering and Management, Kolkata**, for providing an excellent research environment. Lastly, our sincere appreciation to our peers and families for their unwavering support throughout this journey.
+We sincerely thank our supervisor, Dr. Anupam Mondal, for his expert guidance and constant encouragement. We are also grateful to the faculty of the CSE Department at IEM for their support. A special note of thanks to our Director, Dr. Satyajit Chakrabarti, for his visionary leadership and motivation. Lastly, we thank our families and friends for their unwavering support throughout this journey. This work would not have been possible without the collaborative spirit and academic environment provided by IEM, Kolkata.
