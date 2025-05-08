@@ -5,16 +5,12 @@
 
 ---
 
-## **Members**  
-1. **Aritra Ghosh**  
-   - Section A, Roll: 74  
-   - Enrollment No.: 12021002002137
-   - Registration No.: 211040100110105
+## **Members**
 
-2. **Subhojit Ghosh**  
-   - Section B, Roll: 97  
-   - Enrollment No.: 12021002002160
-   - Registration No.: 211040100110130 
+| Name              | Section | Roll | Enrollment No.     | Registration No.         | Department | Degree |
+|-------------------|---------|------|---------------------|---------------------------|------------|--------|
+| **Aritra Ghosh**   | A       | 74   | 12021002002137      | 211040100110105           | CSE        | B.Tech |
+| **Subhojit Ghosh** | B       | 97   | 12021002002160      | 211040100110130           | CSE        | B.Tech |
 
 ---
 
