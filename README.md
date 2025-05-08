@@ -20,10 +20,13 @@
 ---
 
 ## **🔗 Quick Links**  
+- **Thesis**: [Thesis Report](https://github.com/TheCleverIdiott/FYP/blob/main/project_report.pdf)
 - **Dataset**: [Access the dataset from here](https://mega.nz/file/pj8nTZjD#JO5EEfbZ6rinPLGQHNSvfOnrF37fUJu205A-qwqJskQ)
-- **📽️ Presentation**: [View Presentation](https://summari-wa22e81.gamma.site/)  
-- **🌐 Deployed Project**: [Explore the Deployed System](https://summari.streamlit.app/)  
-- **📄 Project Report**: [Read the Full Report](https://github.com/TheCleverIdiott/FYP/blob/main/project_report.pdf)
+- **Presentation**: [View Presentation](https://summari-wa22e81.gamma.site/)  
+- **Deployed Project**: [Explore the Deployed System](https://summari.streamlit.app/)  
+- **Project Report**: [Read the Full Report](https://github.com/TheCleverIdiott/FYP/blob/main/project_report.pdf)
+- **Poster**: [See the Final Year Poster](https://docs.google.com/presentation/d/1uzKtcLN4YwwHzdxXHMhlkBzhEHWPywyIHu4xZ6QtKpE/edit?usp=sharing)
+
   
 ---
 
